@@ -6,9 +6,7 @@ Author's : Aliriza Hamonangan Matondang
 - Create the recommendation of discount promotion
 - Issue identification and the weakness of Super Store to increase the Profit
 ## Data Information
-- The dataset is from 2014 - 2017
-- The dataset contains 21 Features
-- The dataset contains 9994 rows
+The dataset is from 2014 - 2017, contains 21 Features, and 9994 rows
 
 - Row ID => Unique ID for each row.
 - Order ID => Unique Order ID for each Customer.
